@@ -35,9 +35,9 @@ Previously worked in precision welding, which taught me attention to detail, pro
 
 | Project | Description | Stack |
 |---|---|---|
-| [Python Logic Foundations](https://github.com/danilo-guimaraes/Python-Logic-Foundations-Module-01) | Logic fundamentals: variables, operators, conditionals | Python |
-| [Control Flow Mastery](https://github.com/danilo-guimaraes/Python-Mastery-Module-02-Control-Flow) | Control structures: if, while, for, break | Python |
-| [Python Module 03](https://github.com/danilo-guimaraes/Python-Mastery-Module-03) | Composite structures: lists, tuples, dictionaries | Python |
+| [Python Module 01](https://github.com/danilo-guimaraes/python-curso-em-video-m01) | Logic fundamentals: variables, operators, conditionals | Python |
+| [Python Module 02](https://github.com/danilo-guimaraes/python-curso-em-video-m02) | Control structures: if, while, for, break | Python |
+| [Python Module 03](https://github.com/danilo-guimaraes/python-curso-em-video-m03) | Composite structures: lists, tuples, dictionaries | Python |
 | [EventMaster Pro](https://github.com/danilo-guimaraes/EventMaster-Pro) | Event management system | Python |
 
 ---
