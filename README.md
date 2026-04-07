@@ -6,17 +6,18 @@
 ### 🧠 About me
 
 I'm a software development student (ADS @ Estácio) transitioning into AI Engineering.
-Currently mastering Python fundamentals and building a solid foundation in data structures, algorithms, and machine learning — with the goal of working abroad in the next 2–3 years.
+Currently mastering Python fundamentals and building a solid foundation in data structures, algorithms, and machine learning — with the goal of working abroad in the next 12 months.
 
-Previously worked in precision welding, which taught me attention to detail, problem-solving under pressure, and getting things right the first time. I bring that same mindset to code.
+Previously worked in corporate administration for 9+ years, which taught me organization, process management, and delivering results under pressure. I bring that same mindset to code.
 
 ---
 
 ### 🚀 Currently learning
 
-- 🐍 Python — Mundo 04 (Estudonauta)
+- 🐍 Python — Mundo 04 completed ✅ (OOP)
+- 🗄️ MySQL — queries, joins, data modeling
+- 🐧 Linux — terminal, environment setup
 - 📊 Data structures and algorithms
-- 🤖 AI fundamentals
 - 🇺🇸 English — technical reading and writing
 
 ---
@@ -28,6 +29,7 @@ Previously worked in precision welding, which taught me attention to detail, pro
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
@@ -38,7 +40,8 @@ Previously worked in precision welding, which taught me attention to detail, pro
 | [Python Module 01](https://github.com/danilo-guimaraes/python-curso-em-video-m01) | Logic fundamentals: variables, operators, conditionals | Python |
 | [Python Module 02](https://github.com/danilo-guimaraes/python-curso-em-video-m02) | Control structures: if, while, for, break | Python |
 | [Python Module 03](https://github.com/danilo-guimaraes/python-curso-em-video-m03) | Composite structures: lists, tuples, dictionaries | Python |
-| [EventMaster Pro](https://github.com/danilo-guimaraes/EventMaster-Pro) | Event management system | Python |
+| [Python Module 04](https://github.com/danilo-guimaraes/python-curso-em-video-m04) | Object-Oriented Programming: classes, inheritance, polymorphism | Python |
+| [EventMaster Pro](https://github.com/danilo-guimaraes/EventMaster-Pro) | Event budget management system — live in production ☁️ | Python · Streamlit |
 
 ---
 
