@@ -12,24 +12,29 @@ Previously worked in corporate administration for 9+ years, which taught me orga
 
 ---
 
-### 🚀 Currently learning
-
-- 🐍 Python — Mundo 04 completed ✅ (OOP)
-- 🗄️ MySQL — queries, joins, data modeling
-- 🐧 Linux — terminal, environment setup
-- 📊 Data structures and algorithms
-- 🇺🇸 English — technical reading and writing
-
----
-
 ### 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python%20OOP](https://img.shields.io/badge/Python%20OOP-Object%20Oriented%20Programming-306998?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
+![AI%20em%20Aprendizado](https://img.shields.io/badge/AI-em%20Aprendizado-8A2BE2?style=flat&logo=openai&logoColor=white)
+![Machine%20Learning%20em%20Aprendizado](https://img.shields.io/badge/Machine%20Learning-em%20Aprendizado-0A66C2?style=flat&logo=scikitlearn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![English](https://img.shields.io/badge/English-Basic%20(Improving%20Fast)-1E90FF?style=flat&logo=googletranslate&logoColor=white)
+---
+
+## Career Direction
+
+![Target Role](https://img.shields.io/badge/Target%20Role-Junior%20Python%20Developer%20(Backend%2FData)-3776AB?style=flat&logo=python&logoColor=white)
+![AI Track](https://img.shields.io/badge/Transition%20Track-AI%20Engineer-8A2BE2?style=flat&logo=openai&logoColor=white)
+![Timezone](https://img.shields.io/badge/Timezone-BRT%20(UTC--3)-0A66C2?style=flat&logo=googlecalendar&logoColor=white)
+![Work Mode](https://img.shields.io/badge/Work%20Mode-Remote--friendly%20for%20global%20collaboration-22A06B?style=flat&logo=remote&logoColor=white)
+
+- Junior Python Developer (Backend/Data)
+- Transition track to AI Engineer
+- BRT (UTC-3), remote-friendly for global collaboration
 
 ---
 
@@ -48,3 +53,4 @@ Previously worked in corporate administration for 9+ years, which taught me orga
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloguimaraes-it/)
+[![Email](https://img.shields.io/badge/Email-d.guimaraes.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:d.guimaraes.dev@gmail.com)
