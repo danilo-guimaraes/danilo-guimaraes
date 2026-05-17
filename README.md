@@ -48,7 +48,7 @@ combined with Python, MySQL and FastAPI on the backend.
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | [EventMaster Pro](https://github.com/danilo-guimaraes/EventMaster-Pro) | Event budget management system | Python · Streamlit | [▶ Live](https://orcamento-eventos-pro.streamlit.app/) |
-| [Android History](https://danilo-guimaraes.github.io/Project-Android/) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Project-Android/) |
+| [Android History](https://github.com/danilo-guimaraes/Project-Android) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Project-Android/) |
 | [Python Module 04](https://github.com/danilo-guimaraes/Python-Mastery-Module-04-OOP) | OOP — classes, inheritance, polymorphism | Python | — |
 | [Python Module 03](https://github.com/danilo-guimaraes/Python-Mastery-Module-03) | Composite structures — lists, dicts, tuples | Python | — |
 | [Python Module 02](https://github.com/danilo-guimaraes/Python-Mastery-Module-02-Control-Flow) | Control flow — if, while, for, break | Python | — |
