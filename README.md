@@ -1,64 +1,70 @@
-# Hi, I'm Danilo 👋
-
-**Programador Trainee | Python Developer | Aspiring AI Engineer | Rio de Janeiro → Canada 🍁**
-
----
-
-## 🧠 About me
-
-I'm a software development student (ADS @ Estácio) and **Programador Trainee (CLT)** transitioning into AI Engineering. Currently deepening my Python skills with a focus on Machine Learning — working with scikit-learn, Naive Bayes, and data preprocessing — while building a solid foundation in databases and algorithms.
-
-Previously worked in corporate administration for nearly 10 years, which taught me organization, process management, and delivering results under pressure. I bring that same mindset to code.
+<h1 align="center">Hi, I'm Danilo 👋</h1>
+<h3 align="center">Fullstack Developer in Training | Python · HTML · CSS · JavaScript | Rio de Janeiro → Canada 🍁</h3>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧠 About me
 
-![Python](https://img.shields.io/badge/Python-OOP%20Certified-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Module%2000%20Certified-orange)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-In%20Progress-yellow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Learning-lightgrey)
-![Linux](https://img.shields.io/badge/Linux-Learning-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-In%20Use-red)
+Trainee Programmer (CLT · CBO 3171-10) transitioning into 
+Fullstack Development after nearly 10 years in corporate administration.
 
----
-
-## 🎓 Currently Learning
-
-| Topic | Platform | Status |
-|---|---|---|
-| Machine Learning with Python (scikit-learn, Naive Bayes, preprocessing) | Self-study | 🔄 In Progress |
-| Bootcamp Santander — Data Science with Python | DIO | 🔄 In Progress |
-| Linux Fundamentals | Estudonauta | 🔄 In Progress |
+I build real projects, push to GitHub every day, and learn by doing.
+Currently mastering HTML, CSS and JavaScript on the frontend —
+combined with Python, MySQL and FastAPI on the backend.
 
 ---
 
+### 🚀 Currently learning
+
+- 🌐 HTML5 · CSS3 · JavaScript (ES6+) — Web Frontend Completo (Udemy)
+- 🐍 Python Módulo 03 — Estruturas Compostas (Estudonauta)
+- 🗄️ MySQL — Módulo 00 certificado (40h)
+- 🤖 Machine Learning — scikit-learn · Pandas · NumPy (em andamento)
+
+### ⏳ Next steps
+- JavaScript ES6+ avançado → FastAPI → Projeto fullstack integrado
+- React · TypeScript (após dominar JS puro)
+- Vaga júnior remota no Brasil 🇧🇷
+
+---
+
+### 🛠️ Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
 
 ### 📌 Featured projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Python Module 01](https://github.com/danilo-guimaraes/python-curso-em-video-m01) | Logic fundamentals: variables, operators, conditionals | Python |
-| [Python Module 02](https://github.com/danilo-guimaraes/python-curso-em-video-m02) | Control structures: if, while, for, break | Python |
-| [Python Module 03](https://github.com/danilo-guimaraes/python-curso-em-video-m03) | Composite structures: lists, tuples, dictionaries | Python |
-| [Python Module 04](https://github.com/danilo-guimaraes/python-curso-em-video-m04) | Object-Oriented Programming: classes, inheritance, polymorphism | Python |
-| [EventMaster Pro](https://github.com/danilo-guimaraes/EventMaster-Pro) | Event budget management system — live in production ☁️ | Python · Streamlit |
-
-
----
-
-## 🎯 Career Direction
-
-- **Current Role:** Programador Trainee (CLT) · M.O. Guimarães Informações e Investigações Gerais LTDA
-- **Target Role:** AI Engineer (Remote)
-- **Destination:** Canada 🍁
-- **Timezone:** BRT (UTC-3) · Remote-friendly for global collaboration
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| [EventMaster Pro](https://github.com/danilo-guimaraes/EventMaster-Pro) | Event budget management system | Python · Streamlit | [▶ Live](https://orcamento-eventos-pro.streamlit.app/) |
+| [Android History](https://github.com/danilo-guimaraes/android-history) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/android-history/) |
+| [Python Module 04](https://github.com/danilo-guimaraes/Python-Mastery-Module-04-OOP) | OOP — classes, inheritance, polymorphism | Python | — |
+| [Python Module 03](https://github.com/danilo-guimaraes/Python-Mastery-Module-03) | Composite structures — lists, dicts, tuples | Python | — |
+| [Python Module 02](https://github.com/danilo-guimaraes/Python-Mastery-Module-02-Control-Flow) | Control flow — if, while, for, break | Python | — |
+| [Python Module 01](https://github.com/danilo-guimaraes/Python-Logic-Foundations-Module-01) | Logic fundamentals — variables, operators | Python | — |
 
 ---
+
+### 📊 My roadmap
+- ✅ Python M1–M4 (OOP certified)
+- ✅ MySQL M00 (40h certified)
+- ⏳ FastAPI + MySQL → Fullstack project
+- ⏳ React · TypeScript (quando JS estiver sólido)
+  
 
 ---
 
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloguimaraes-it/)
-[![Email](https://img.shields.io/badge/Email-d.guimaraes.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:d.guimaraes.dev@gmail.com)
