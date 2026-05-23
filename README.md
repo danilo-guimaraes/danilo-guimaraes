@@ -16,10 +16,10 @@ combined with Python, MySQL and FastAPI on the backend.
 
 ### 🚀 Currently learning
 
-- 🌐 HTML5 · CSS3 · JavaScript (ES6+) — Web Frontend Completo (Udemy)
-- 🐍 Python Módulo 03 — Estruturas Compostas (Estudonauta)
-- 🗄️ MySQL — Módulo 00 certificado (40h)
-- 🤖 Machine Learning — scikit-learn · Pandas · NumPy (em andamento)
+- 🌐 HTML5 · CSS3 · JavaScript (ES6+) — Complete Web Frontend (Udemy)
+- 🐍 Python Module 03 — Composite Structures (Estudonauta)
+- 🗄️ MySQL — Module 00 certified (40h)
+- 🤖 Machine Learning — scikit-learn · Pandas · NumPy (ongoing)
 
 ### ⏳ Next steps
 - JavaScript ES6+ avançado → FastAPI → Projeto fullstack integrado
@@ -49,18 +49,19 @@ combined with Python, MySQL and FastAPI on the backend.
 |---|---|---|---|
 | [EventMaster Pro](https://github.com/danilo-guimaraes/EventMaster-Pro) | Event budget management system | Python · Streamlit | [▶ Live](https://orcamento-eventos-pro.streamlit.app/) |
 | [Android History](https://github.com/danilo-guimaraes/Project-Android) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Project-Android/) |
+| [Social Media Project](https://github.com/danilo-guimaraes/Projeto-Redes-Sociais--curso-em-video-) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Projeto-Redes-Sociais--curso-em-video-/) |
+| [Modern Cordel](https://github.com/danilo-guimaraes/cordel-moderno-project) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/cordel-moderno-project/) |
+| [Technology Trivia](https://github.com/danilo-guimaraes/Project-Android) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Project-Android/) |
 | [Python Module 04](https://github.com/danilo-guimaraes/Python-Mastery-Module-04-OOP) | OOP — classes, inheritance, polymorphism | Python | — |
-| [Python Module 03](https://github.com/danilo-guimaraes/Python-Mastery-Module-03) | Composite structures — lists, dicts, tuples | Python | — |
-| [Python Module 02](https://github.com/danilo-guimaraes/Python-Mastery-Module-02-Control-Flow) | Control flow — if, while, for, break | Python | — |
-| [Python Module 01](https://github.com/danilo-guimaraes/Python-Logic-Foundations-Module-01) | Logic fundamentals — variables, operators | Python | — |
 
 ---
 
 ### 📊 My roadmap
 - ✅ Python M1–M4 (OOP certified)
 - ✅ MySQL M00 (40h certified)
-- ⏳ FastAPI + MySQL → Fullstack project
-- ⏳ React · TypeScript (quando JS estiver sólido)
+- ✅ HTML5 + CSS3 M1–M3 (Estudonauta certified)
+- ⏳ HTML5 + CSS3 M4-M5 → JavaScript + Projectiles Fulls
+- ⏳ React → (when JS is solid)
   
 
 ---
