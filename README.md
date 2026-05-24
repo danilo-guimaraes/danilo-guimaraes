@@ -47,7 +47,6 @@ combined with Python, MySQL and FastAPI on the backend.
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [EventMaster Pro](https://github.com/danilo-guimaraes/EventMaster-Pro) | Event budget management system | Python · Streamlit | [▶ Live](https://orcamento-eventos-pro.streamlit.app/) |
 | [Android History](https://github.com/danilo-guimaraes/Project-Android) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Project-Android/) |
 | [Social Media Project](https://github.com/danilo-guimaraes/Projeto-Redes-Sociais--curso-em-video-) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Projeto-Redes-Sociais--curso-em-video-/) |
 | [Modern Cordel](https://github.com/danilo-guimaraes/cordel-moderno-project) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/cordel-moderno-project/) |
