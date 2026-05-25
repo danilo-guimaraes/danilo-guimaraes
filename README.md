@@ -43,26 +43,32 @@ combined with Python, MySQL and FastAPI on the backend.
 
 ---
 
-### 📌 Featured projects
-
+### 📌 Featured Projects
+ 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [Android History](https://github.com/danilo-guimaraes/Project-Android) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Project-Android/) |
-| [Social Media Project](https://github.com/danilo-guimaraes/Projeto-Redes-Sociais--curso-em-video-) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Projeto-Redes-Sociais--curso-em-video-/) |
-| [Modern Cordel](https://github.com/danilo-guimaraes/cordel-moderno-project) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/cordel-moderno-project/) |
-| [Technology Trivia](https://github.com/danilo-guimaraes/Project-Android) | Frontend project — HTML5 & CSS3 | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Project-Android/) |
-| [Python Module 04](https://github.com/danilo-guimaraes/Python-Mastery-Module-04-OOP) | OOP — classes, inheritance, polymorphism | Python | — |
-
+| [Login Page](https://github.com/danilo-guimaraes/projeto-login) | Responsive login form with media queries | HTML · CSS | — | [▶ Live](https://danilo-guimaraes.github.io/projeto-login/) |
+| [Android History](https://github.com/danilo-guimaraes/Project-Android) | Frontend tribute page | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Project-Android/) |
+| [Social Media Project](https://github.com/danilo-guimaraes/Projeto-Redes-Sociais--curso-em-video-) | Multi-page social layout | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Projeto-Redes-Sociais--curso-em-video-/) |
+| [Modern Cordel](https://github.com/danilo-guimaraes/cordel-moderno-project) | Editorial CSS layout | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/cordel-moderno-project/) |
+| [Python OOP Module 04](https://github.com/danilo-guimaraes/Python-Mastery-Module-04-OOP) | Classes, inheritance, polymorphism | Python | — |
+ 
 ---
-
-### 📊 My roadmap
-- ✅ Python M1–M4 (OOP certified)
-- ✅ MySQL M00 (40h certified)
-- ✅ HTML5 + CSS3 M1–M3 (Estudonauta certified)
-- ⏳ HTML5 + CSS3 M4-M5 → JavaScript + Projectiles Fulls
-- ⏳ React → (when JS is solid)
-  
-
+ 
+### 📊 Roadmap Progress
+ 
+| Milestone | Status |
+|---|---|
+| Python M1 – M4 (OOP) | ✅ Certified |
+| MySQL M00 (40h) | ✅ Certified |
+| HTML5 + CSS3 M1 – M3 | ✅ Certified |
+| HTML5 + CSS3 M4 – M5 | ⏳ In progress |
+| JavaScript ES6+ | ⏳ In progress |
+| FastAPI + Fullstack Project | 🔜 Next |
+| React + TypeScript | 🔜 Planned |
+| AWS Cloud Practitioner | 🔜 Planned |
+| AI Engineer 🍁 | 🎯 Long-term |
+ 
 ---
 
 ### 📫 Let's connect
