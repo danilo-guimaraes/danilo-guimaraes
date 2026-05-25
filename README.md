@@ -47,7 +47,7 @@ combined with Python, MySQL and FastAPI on the backend.
  
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [Login Page](https://github.com/danilo-guimaraes/projeto-login) | Responsive login form with media queries | HTML · CSS | — | [▶ Live](https://danilo-guimaraes.github.io/projeto-login/) |
+| [Login Page](https://github.com/danilo-guimaraes/projeto-login) | Responsive login form with media queries | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/projeto-login/) |
 | [Android History](https://github.com/danilo-guimaraes/Project-Android) | Frontend tribute page | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Project-Android/) |
 | [Social Media Project](https://github.com/danilo-guimaraes/Projeto-Redes-Sociais--curso-em-video-) | Multi-page social layout | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Projeto-Redes-Sociais--curso-em-video-/) |
 | [Modern Cordel](https://github.com/danilo-guimaraes/cordel-moderno-project) | Editorial CSS layout | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/cordel-moderno-project/) |
