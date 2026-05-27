@@ -47,13 +47,12 @@ combined with Python, MySQL and FastAPI on the backend.
  
 | Project | Description | Stack | Live |
 |---|---|---|---|
+| [Portfolio Pessoal](https://github.com/danilo-guimaraes/projeto-portfolio-estudonauta) | Portfólio profissional responsivo com alternador de tema | HTML · CSS · JS | [▶ Live](https://danilo-guimaraes.github.io/projeto-portfolio-estudonauta/) |
 | [Login Page](https://github.com/danilo-guimaraes/projeto-login) | Responsive login form with media queries | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/projeto-login/) |
 | [Android History](https://github.com/danilo-guimaraes/Project-Android) | Frontend tribute page | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Project-Android/) |
 | [Social Media Project](https://github.com/danilo-guimaraes/Projeto-Redes-Sociais--curso-em-video-) | Multi-page social layout | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/Projeto-Redes-Sociais--curso-em-video-/) |
 | [Modern Cordel](https://github.com/danilo-guimaraes/cordel-moderno-project) | Editorial CSS layout | HTML · CSS | [▶ Live](https://danilo-guimaraes.github.io/cordel-moderno-project/) |
 | [Python OOP Module 04](https://github.com/danilo-guimaraes/Python-Mastery-Module-04-OOP) | Classes, inheritance, polymorphism | Python | — |
- 
----
  
 ### 📊 Roadmap Progress
  
