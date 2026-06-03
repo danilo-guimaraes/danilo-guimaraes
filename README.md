@@ -16,7 +16,7 @@ combined with Python, MySQL and FastAPI on the backend.
 
 ### 🚀 Currently learning
 
-- 🌐 HTML5 · CSS3 · JavaScript (ES6+) — Complete Web Frontend (Udemy)
+- 🌐 HTML5 · CSS3 · JavaScript (ES6+) — Complete Web Frontend (Curso em Video)
 - 🐍 Python Module 03 — Composite Structures (Estudonauta)
 - 🗄️ MySQL — Module 00 certified (40h)
 - 🤖 Machine Learning — scikit-learn · Pandas · NumPy (ongoing)
