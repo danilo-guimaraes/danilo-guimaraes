@@ -4,16 +4,13 @@
 ---
 
 ### 🧠 About me
-Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scratch —
-no copy-paste, no shortcuts. I study daily, push to GitHub consistently, and learn by
-doing rather than just watching tutorials. Currently solidifying JavaScript while
-practicing Tailwind CSS, with React and Node.js next on the roadmap.
+Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scratch — no copy-paste, no shortcuts. I study daily, push to GitHub consistently, and learn by doing rather than just watching tutorials. Currently mastering JavaScript and Tailwind CSS v4, with React and Node.js next on the roadmap.
 
 ---
 
 ### 🚀 Currently learning
-- 🎨 Tailwind CSS — Origamid
-- 🟨 JavaScript (ES6+) — DOM, Events, Fetch API — Origamid
+- 🎨 Tailwind CSS v4 — Components & Logical Properties (Origamid)
+- 🟨 JavaScript (ES6+) — DOM Manipulation, Event Bubbling & Dynamic States (Origamid)
 - 🐍 Python — Mundos 1-4 certified (Estudonauta)
 - 🗄️ MySQL — Module 00 certified (40h)
 
@@ -40,18 +37,16 @@ practicing Tailwind CSS, with React and Node.js next on the roadmap.
 
 ---
 
-
 ### 📌 Featured Projects
 
 | Project | Description | Stack | Live |
 | :--- | :--- | :--- | :--- |
-| **Manage Landing Page** | Landing page complexa com comportamento responsivo premium, estados de hover e slider de depoimentos. | HTML5 · CSS3 (Flexbox/Grid) · JS | [▶ Live](https://danilo-guimaraes.github.io/manage-landing-page/) |
-| **DigitalBank Landing Page** | Página institucional moderna com transições suaves e grid focado em conversão. | HTML5 · CSS3 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/digitalbank-landing-page/) |
+| **Multi-step Form** | Formulário dinâmico com controle de etapas, alternador inteligente de faturamento (Mês/Ano) e prevenção de event bubbling. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/multi-step-form/) |
+| **Theme Calculator** | Calculadora completa com suporte a 3 temas visuais dinâmicos e controle de operações matemáticas complexas. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/calculator-app-solution/) |
+| **Interactive Rating Component** | Componente de avaliação interativo com captura de estado de cliques e tela de agradecimento dinâmica. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/interactive-rating-component/) |
+| **Manage Landing Page** | Landing page complexa com comportamento responsivo premium, estados de hover e slider de depoimentos. | HTML5 · CSS3 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/manage-landing-page/) |
 | **Bento Grid Dashboard** | Recriação de uma estrutura Bento Grid moderna, otimizando o posicionamento e ordem dos elementos. | HTML5 · CSS Grid Avançado | [▶ Live](https://danilo-guimaraes.github.io/bento-grid-main/) |
-| **Testimonials Grid** | Grade complexa de depoimentos utilizando o modelo CSS Grid bidimensional com áreas variadas. | HTML5 · CSS Grid (Layouts) | [▶ Live](https://danilo-guimaraes.github.io/frontend-mentor-testimonials-grid/) |
-| **Workit Data Analytics** | Landing page minimalista e elegante focada em tipografia responsiva e assets otimizados. | HTML5 · CSS3 · BEM CSS | [▶ Live](https://danilo-guimaraes.github.io/Workit--Data-Analytics-Landing-Page/) |
-| **Skilled E-Learning** | Página de captura com múltiplos cards e alinhamento geométrico impecável para telas variadas. | HTML5 · CSS3 · Flexbox | [▶ Live](https://danilo-guimaraes.github.io/Skilled-E-Learning-Landing-Page/) |
-| **Python OOP Module 04** | Backend focado em Programação Orientada a Objetos: Classes, herança, encapsulamento e polimorfismo. | Python | [🛠️ Repo](https://github.com/danilo-guimaraes/Python) |
+| **Python OOP Module 04** | Backend focado em Programação Orientada a Objetos: Classes, herança, encapsulamento e polimorfismo. | Python | [🛠️ Repo](https://github.com/danilo-guimaraes/python-curso-em-video-m04) |
 
 ---
 
@@ -62,7 +57,7 @@ practicing Tailwind CSS, with React and Node.js next on the roadmap.
 | HTML5 + CSS3 (Flexbox, Grid, responsive) | ✅ Solid |
 | Python Mundos 1-4 | ✅ Certified |
 | MySQL M00 (40h) | ✅ Certified |
-| Tailwind CSS | ⏳ In progress |
+| Tailwind CSS v4 | ✅ Solid |
 | JavaScript ES6+ | ⏳ In progress |
 | React.js | 🔜 Next |
 | Node.js + Express | 🔜 Planned |
