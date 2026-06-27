@@ -4,13 +4,13 @@
 ---
 
 ### 🧠 About me
-Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scratch — no copy-paste, no shortcuts. I study daily, push to GitHub consistently, and learn by doing rather than just watching tutorials. Currently mastering JavaScript and Tailwind CSS v4, with React and Node.js next on the roadmap.
+Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scratch — no copy-paste, no shortcuts. I study daily, push to GitHub consistently, and learn by doing rather than just watching tutorials. Currently mastering JavaScript (ES6+ POO) and Tailwind CSS v4, with React and Node.js next on the roadmap.
 
 ---
 
 ### 🚀 Currently learning
-- 🎨 Tailwind CSS v4 — Components & Logical Properties (Origamid)
-- 🟨 JavaScript (ES6+) — DOM Manipulation, Event Bubbling & Dynamic States (Origamid)
+- 🎨 Tailwind CSS v4 — Components, Dynamic Gradients & Logical Properties (Origamid)
+- 🟨 JavaScript (ES6+) — Object-Oriented Programming (Classes), Fetch API, Event Bubbling & Observers (Origamid)
 - 🐍 Python — Mundos 1-4 certified (Estudonauta)
 - 🗄️ MySQL — Module 00 certified (40h)
 
@@ -41,12 +41,12 @@ Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scr
 
 | Project | Description | Stack | Live |
 | :--- | :--- | :--- | :--- |
+| **Animais Fantásticos** | Projeto avançado de UI estruturado inteiramente com JavaScript Orientado a Objetos (Classes), MutationObserver, Fetch API de Bitcoins/Animais e debounce de eventos. | HTML5 · Tailwind v4 · JS (Classes/ES6) | [▶ Live](https://danilo-guimaraes.github.io/animais-fantasticos/) |
 | **Multi-step Form** | Formulário dinâmico com controle de etapas, alternador inteligente de faturamento (Mês/Ano) e prevenção de event bubbling. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/multi-step-form/) |
-| **Theme Calculator** | Calculadora completa com suporte a 3 temas visuais dinâmicos e controle de operações matemáticas complexas. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/calculator-app-solution/) |
+| **Theme Calculator** | Calculadora completa com suporte a 3 temas visuais dinâmicos e controle de operações matemáticas complexas. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/calculator-app-main/) |
 | **Interactive Rating Component** | Componente de avaliação interativo com captura de estado de cliques e tela de agradecimento dinâmica. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/interactive-rating-component/) |
-| **Manage Landing Page** | Landing page complexa com comportamento responsivo premium, estados de hover e slider de depoimentos. | HTML5 · CSS3 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/manage-landing-page/) |
 | **Bento Grid Dashboard** | Recriação de uma estrutura Bento Grid moderna, otimizando o posicionamento e ordem dos elementos. | HTML5 · CSS Grid Avançado | [▶ Live](https://danilo-guimaraes.github.io/bento-grid-main/) |
-| **Python OOP Module 04** | Backend focado em Programação Orientada a Objetos: Classes, herança, encapsulamento e polimorfismo. | Python | [🛠️ Repo](https://github.com/danilo-guimaraes/python-curso-em-video-m04) |
+| **Python OOP Module 04** | Backend focado em Programação Orientada a Objetos: Classes, herança, encapsulamento e polimorfismo. | Python | [🛠️ Repo](https://github.com/danilo-guimaraes/Python) |
 
 ---
 
@@ -58,11 +58,19 @@ Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scr
 | Python Mundos 1-4 | ✅ Certified |
 | MySQL M00 (40h) | ✅ Certified |
 | Tailwind CSS v4 | ✅ Solid |
-| JavaScript ES6+ | ⏳ In progress |
+| JavaScript ES6+ (DOM & POO) | ⏳ In progress |
 | React.js | 🔜 Next |
 | Node.js + Express | 🔜 Planned |
 | Fullstack Project (React + Node + MySQL) | 🔜 Planned |
 | AI Engineer 🍁 | 🎯 Long-term |
+
+---
+
+### 👑 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo-guimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-guimaraes&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ---
 
