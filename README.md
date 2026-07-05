@@ -9,10 +9,11 @@ Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scr
 ---
 
 ### 🚀 Currently learning
-- 🎨 Tailwind CSS v4 — Components, Dynamic Gradients & Logical Properties (Origamid)
-- 🟨 JavaScript (ES6+) — Object-Oriented Programming (Classes), Fetch API, Event Bubbling & Observers (Origamid)
-- 🐍 Python — Mundos 1-4 certified (Estudonauta)
-- 🗄️ MySQL — Module 00 certified (40h)
+- 🚀 **JavaScript Core & UX** — DOM manipulation, Event Delegation, Forms, API consumption and Event Listeners (Rocketseat)
+- 🎨 **Tailwind CSS v4** — Components, Dynamic Gradients & Logical Properties (Origamid)
+- 🟨 **JavaScript (ES6+)** — Object-Oriented Programming (Classes), Fetch API, Event Bubbling & Observers (Origamid)
+- 🐍 **Python** — Mundos 1-4 certified (Estudonauta)
+- 🗄️ **MySQL** — Module 00 certified (40h)
 
 ### ⏳ Next steps
 - React.js — Origamid
@@ -42,6 +43,7 @@ Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scr
 | Project | Description | Stack | Live |
 | :--- | :--- | :--- | :--- |
 | **Animais Fantásticos** | Projeto avançado de UI estruturado inteiramente com JavaScript Orientado a Objetos (Classes), MutationObserver, Fetch API de Bitcoins/Animais e debounce de eventos. | HTML5 · Tailwind v4 · JS (Classes/ES6) | [▶ Live](https://danilo-guimaraes.github.io/animais-fantasticos/) |
+| **Convert App** | Conversor de moedas (USD/EUR/GBP) com tratamento de erros, máscaras em Regex e botões de sugestões rápidas em JavaScript com Delegação de Eventos. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/convert-template/) |
 | **Multi-step Form** | Formulário dinâmico com controle de etapas, alternador inteligente de faturamento (Mês/Ano) e prevenção de event bubbling. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/multi-step-form/) |
 | **Theme Calculator** | Calculadora completa com suporte a 3 temas visuais dinâmicos e controle de operações matemáticas complexas. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/calculator-app-main/) |
 | **Interactive Rating Component** | Componente de avaliação interativo com captura de estado de cliques e tela de agradecimento dinâmica. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/interactive-rating-component/) |
@@ -58,7 +60,7 @@ Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scr
 | Python Mundos 1-4 | ✅ Certified |
 | MySQL M00 (40h) | ✅ Certified |
 | Tailwind CSS v4 | ✅ Solid |
-| JavaScript ES6+ (DOM & POO) | ⏳ In progress |
+| JavaScript ES6+ (DOM, UX & POO) | ⏳ In progress |
 | React.js | 🔜 Next |
 | Node.js + Express | 🔜 Planned |
 | Fullstack Project (React + Node + MySQL) | 🔜 Planned |
