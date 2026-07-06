@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About me
-Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scratch — no copy-paste, no shortcuts. I study daily, push to GitHub consistently, and learn by doing rather than just watching tutorials. Currently mastering JavaScript (ES6+ POO) and Tailwind CSS v4, with React and Node.js next on the roadmap.
+Trainee Programmer building real frontend projects from scratch — no copy-paste, no shortcuts. I study daily, push to GitHub consistently, and learn by doing rather than just watching tutorials. Currently mastering JavaScript (ES6+ POO) and Tailwind CSS v4, with React and Node.js next on the roadmap.
 
 ---
 
@@ -42,13 +42,13 @@ Trainee Programmer (CLT · CBO 3171-10) building real frontend projects from scr
 
 | Project | Description | Stack | Live |
 | :--- | :--- | :--- | :--- |
+| **Shopping List** | Lista de compras interativa criada do zero. Manipulação de DOM para capturar dados de input, renderização dinâmica de elementos HTML (`createElement`/`appendChild`) com checkbox e botão de exclusão (`remove`). | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/compras-da-semana-rockectseat/) |
 | **Animais Fantásticos** | Projeto avançado de UI estruturado inteiramente com JavaScript Orientado a Objetos (Classes), MutationObserver, Fetch API de Bitcoins/Animais e debounce de eventos. | HTML5 · Tailwind v4 · JS (Classes/ES6) | [▶ Live](https://danilo-guimaraes.github.io/animais-fantasticos/) |
-| **Convert App** | Conversor de moedas (USD/EUR/GBP) com tratamento de erros, máscaras em Regex e botões de sugestões rápidas em JavaScript com Delegação de Eventos. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/convert-template/) |
+| **Convert App** | Conversor de moedas (USD/EUR/GBP) com tratamento de erros, masks em Regex e botões de sugestões rápidas em JavaScript com Delegação de Eventos. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/convert-template/) |
 | **Multi-step Form** | Formulário dinâmico com controle de etapas, alternador inteligente de faturamento (Mês/Ano) e prevenção de event bubbling. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/multi-step-form/) |
 | **Theme Calculator** | Calculadora completa com suporte a 3 temas visuais dinâmicos e controle de operações matemáticas complexas. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/calculator-app-main/) |
 | **Interactive Rating Component** | Componente de avaliação interativo com captura de estado de cliques e tela de agradecimento dinâmica. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/interactive-rating-component/) |
 | **Bento Grid Dashboard** | Recriação de uma estrutura Bento Grid moderna, otimizando o posicionamento e ordem dos elementos. | HTML5 · CSS Grid Avançado | [▶ Live](https://danilo-guimaraes.github.io/bento-grid-main/) |
-| **Python OOP Module 04** | Backend focado em Programação Orientada a Objetos: Classes, herança, encapsulamento e polimorfismo. | Python | [🛠️ Repo](https://github.com/danilo-guimaraes/Python) |
 
 ---
 
