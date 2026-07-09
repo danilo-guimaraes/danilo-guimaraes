@@ -42,13 +42,15 @@ Trainee Programmer building real frontend projects from scratch — no copy-past
 
 | Project | Description | Stack | Live |
 | :--- | :--- | :--- | :--- |
-| **Shopping List** | Lista de compras interativa criada do zero. Manipulação de DOM para capturar dados de input, renderização dinâmica de elementos HTML (`createElement`/`appendChild`) com checkbox e botão de exclusão (`remove`). | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/compras-da-semana-rockectseat/) |
-| **Animais Fantásticos** | Projeto avançado de UI estruturado inteiramente com JavaScript Orientado a Objetos (Classes), MutationObserver, Fetch API de Bitcoins/Animais e debounce de eventos. | HTML5 · Tailwind v4 · JS (Classes/ES6) | [▶ Live](https://danilo-guimaraes.github.io/animais-fantasticos/) |
-| **Convert App** | Conversor de moedas (USD/EUR/GBP) com tratamento de erros, masks em Regex e botões de sugestões rápidas em JavaScript com Delegação de Eventos. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/convert-template/) |
-| **Multi-step Form** | Formulário dinâmico com controle de etapas, alternador inteligente de faturamento (Mês/Ano) e prevenção de event bubbling. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/multi-step-form/) |
-| **Theme Calculator** | Calculadora completa com suporte a 3 temas visuais dinâmicos e controle de operações matemáticas complexas. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/calculator-app-main/) |
-| **Interactive Rating Component** | Componente de avaliação interativo com captura de estado de cliques e tela de agradecimento dinâmica. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/interactive-rating-component/) |
-| **Bento Grid Dashboard** | Recriação de uma estrutura Bento Grid moderna, otimizando o posicionamento e ordem dos elementos. | HTML5 · CSS Grid Avançado | [▶ Live](https://danilo-guimaraes.github.io/bento-grid-main/) |
+| **Sorteador de Números** | Interactive number randomizer app allowing users to draw numbers within a custom range. Features repetition control logic, duplicate prevention, and dynamic button state toggles. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/sorteador-de-numeros/) |
+| **Refund App** | Expense refund request system featuring form validation, numeric value input handling, real-time data masking, and automatic expense total calculation. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/refund-template-rocktseat/) |
+| **Shopping List** | Interactive shopping list built from scratch. Features DOM manipulation to capture input data and dynamic rendering of HTML elements (`createElement`/`appendChild`) with checkboxes and an item removal system (`remove`). | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/compras-da-semana-rockectseat/) |
+| **Animais Fantásticos** | Advanced UI project structured entirely with Object-Oriented JavaScript (Classes), featuring MutationObserver, Bitcoin/Animals Fetch API integration, and event debouncing. | HTML5 · Tailwind v4 · JS (Classes/ES6) | [▶ Live](https://danilo-guimaraes.github.io/animais-fantasticos/) |
+| **Convert App** | Currency converter (USD/EUR/GBP) featuring error handling, Regex data masking, and quick-suggestion buttons built using JavaScript Event Delegation. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/convert-template/) |
+| **Multi-step Form** | Dynamic multi-step form featuring step control flow, a smart billing toggle (Monthly/Yearly), and event bubbling prevention. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/multi-step-form/) |
+| **Theme Calculator** | Fully functional calculator with support for 3 dynamic visual themes and complex mathematical operations handling. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/calculator-app-main/) |
+| **Interactive Rating Component** | Interactive rating component featuring click state capture and a dynamic thank-you screen interface. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/interactive-rating-component/) |
+| **Bento Grid Dashboard** | Modern Bento Grid layout recreation, optimizing element positioning and responsiveness using advanced CSS. | HTML5 · CSS Grid | [▶ Live](https://danilo-guimaraes.github.io/bento-grid-main/) |
 
 ---
 
@@ -65,14 +67,6 @@ Trainee Programmer building real frontend projects from scratch — no copy-past
 | Node.js + Express | 🔜 Planned |
 | Fullstack Project (React + Node + MySQL) | 🔜 Planned |
 | AI Engineer 🍁 | 🎯 Long-term |
-
----
-
-### 👑 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo-guimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-guimaraes&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 
 ---
 
