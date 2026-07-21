@@ -3,22 +3,22 @@
 
 ---
 
-### 🧠 Sobre mim
+### Sobre mim
 Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backend) do zero — sem copiar e colar, sem atalhos. Estudo diariamente, faço commits consistentes no GitHub e aprendo colocando a mão na massa, em vez de apenas assistir a tutoriais. Atualmente focado em TypeScript, Node.js e arquitetura de APIs, além de JavaScript (ES6+ POO) e Tailwind CSS v4.
 
 ---
 
-### 🚀 O que estou estudando agora
-- 🟨 **TypeScript & Node.js** — Express, Validação de Schema (Zod) e arquitetura de API REST (Rocketseat)
-- 🎨 **Tailwind CSS v4** — Componentes, Gradientes Dinâmicos & Propriedades Lógicas (Origamid)
-- 🟨 **JavaScript (ES6+)** — Programação Orientada a Objetos (Classes), Fetch API, Event Bubbling & Observers (Origamid)
-- 🐍 **Python** — Certificado nos Mundos 1 a 4 (Estudonauta)
-- 🗄️ **MySQL** — Módulo 00 certificado (40h)
+### O que estou estudando agora
+- **TypeScript & Node.js** — Express, Validação de Schema (Zod) e arquitetura de API REST (Rocketseat)
+- **Tailwind CSS v4** — Componentes, Gradientes Dinâmicos & Propriedades Lógicas (Origamid)
+- **JavaScript (ES6+)** — Programação Orientada a Objetos (Classes), Fetch API, Event Bubbling & Observers (Origamid)
+- **Python** — Certificado nos Mundos 1 a 4 (Estudonauta)
+- **MySQL** — Módulo 00 certificado (40h)
 
-### ⏳ Próximos passos
+### Próximos passos
 - React.js — Origamid
 - Projeto Fullstack (React + Node + MySQL)
-- Engenharia de IA 🎯 — objetivo de longo prazo
+- Engenharia de IA — objetivo de longo prazo
 
 ---
 
