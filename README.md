@@ -1,28 +1,28 @@
-<h1 align="center">Hi, I'm Danilo 👋</h1>
-<h3 align="center">Fullstack Developer | TypeScript · Node.js · HTML · CSS · Tailwind · JavaScript | Rio de Janeiro → Canada 🍁</h3>
+<h1 align="center">Olá, eu sou o Danilo 👋</h1>
+<h3 align="center">Fullstack Developer | TypeScript · Node.js · HTML · CSS · Tailwind · JavaScript | 🍁</h3>
 
 ---
 
-### 🧠 About me
-Programmer building real frontend and backend projects from scratch — no copy-paste, no shortcuts. I study daily, push to GitHub consistently, and learn by doing rather than just watching tutorials. Currently mastering TypeScript, Node.js, and API architecture alongside JavaScript (ES6+ POO) and Tailwind CSS v4.
+### 🧠 Sobre mim
+Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backend) do zero — sem copiar e colar, sem atalhos. Estudo diariamente, faço commits consistentes no GitHub e aprendo colocando a mão na massa, em vez de apenas assistir a tutoriais. Atualmente focado em TypeScript, Node.js e arquitetura de APIs, além de JavaScript (ES6+ POO) e Tailwind CSS v4.
 
 ---
 
-### 🚀 Currently learning
-- 🟨 **TypeScript & Node.js** — Express, Schema Validation (Zod), and REST API architecture (Rocketseat)
-- 🎨 **Tailwind CSS v4** — Components, Dynamic Gradients & Logical Properties (Origamid)
-- 🟨 **JavaScript (ES6+)** — Object-Oriented Programming (Classes), Fetch API, Event Bubbling & Observers (Origamid)
-- 🐍 **Python** — Mundos 1-4 certified (Estudonauta)
-- 🗄️ **MySQL** — Module 00 certified (40h)
+### 🚀 O que estou estudando agora
+- 🟨 **TypeScript & Node.js** — Express, Validação de Schema (Zod) e arquitetura de API REST (Rocketseat)
+- 🎨 **Tailwind CSS v4** — Componentes, Gradientes Dinâmicos & Propriedades Lógicas (Origamid)
+- 🟨 **JavaScript (ES6+)** — Programação Orientada a Objetos (Classes), Fetch API, Event Bubbling & Observers (Origamid)
+- 🐍 **Python** — Certificado nos Mundos 1 a 4 (Estudonauta)
+- 🗄️ **MySQL** — Módulo 00 certificado (40h)
 
-### ⏳ Next steps
+### ⏳ Próximos passos
 - React.js — Origamid
-- Fullstack project (React + Node + MySQL)
-- AI Engineer 🎯 — long-term goal
+- Projeto Fullstack (React + Node + MySQL)
+- Engenharia de IA 🎯 — objetivo de longo prazo
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ Tecnologias
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -39,39 +39,39 @@ Programmer building real frontend and backend projects from scratch — no copy-
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projetos em Destaque
 
-| Project | Description | Stack | Live |
+| Projeto | Descrição | Stack | Acesso |
 | :--- | :--- | :--- | :--- |
-| **API REST** | Robust REST API built from scratch using Node.js and TypeScript, featuring route architecture, custom controllers, error handling, and robust typing. | TypeScript · Node.js · Express | [📦 GitHub](https://github.com/danilo-guimaraes/api-rest) |
-| **API de Ticket** | Backend ticketing service API structured with TypeScript and Express, focused on request validation and handling CRUD endpoints. | TypeScript · Node.js · Express | [📦 GitHub](https://github.com/danilo-guimaraes/api-de-ticket) |
-| **Sorteador de Números** | Interactive number randomizer app allowing users to draw numbers within a custom range. Features repetition control logic, duplicate prevention, and dynamic button state toggles. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/sorteador-de-numeros/) |
-| **Refund App** | Expense refund request system featuring form validation, numeric value input handling, real-time data masking, and automatic expense total calculation. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/refund-template-rocktseat/) |
-| **Shopping List** | Interactive shopping list built from scratch. Features DOM manipulation to capture input data and dynamic rendering of HTML elements (`createElement`/`appendChild`) with checkboxes and an item removal system (`remove`). | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/compras-da-semana-rockectseat/) |
-| **Animais Fantásticos** | Advanced UI project structured entirely with Object-Oriented JavaScript (Classes), featuring MutationObserver, Bitcoin/Animals Fetch API integration, and event debouncing. | HTML5 · Tailwind v4 · JS (Classes/ES6) | [▶ Live](https://danilo-guimaraes.github.io/animais-fantasticos/) |
-| **Convert App** | Currency converter (USD/EUR/GBP) featuring error handling, Regex data masking, and quick-suggestion buttons built using JavaScript Event Delegation. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/convert-template/) |
-| **Multi-step Form** | Dynamic multi-step form featuring step control flow, a smart billing toggle (Monthly/Yearly), and event bubbling prevention. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/multi-step-form/) |
-| **Theme Calculator** | Fully functional calculator with support for 3 dynamic visual themes and complex mathematical operations handling. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/calculator-app-main/) |
-| **Interactive Rating Component** | Interactive rating component featuring click state capture and a dynamic thank-you screen interface. | HTML5 · Tailwind v4 · JavaScript | [▶ Live](https://danilo-guimaraes.github.io/interactive-rating-component/) |
-| **Bento Grid Dashboard** | Modern Bento Grid layout recreation, optimizing element positioning and responsiveness using advanced CSS. | HTML5 · CSS Grid | [▶ Live](https://danilo-guimaraes.github.io/bento-grid-main/) |
+| **API REST** | API REST robusta construída do zero com Node.js e TypeScript, contendo arquitetura de rotas, controllers customizados, tratamento de erros e tipagem rigorosa. | TypeScript · Node.js · Express | [📦 GitHub](https://github.com/danilo-guimaraes/api-rest) |
+| **API de Ticket** | API de serviço de tickets para backend estruturada com TypeScript e Express, focada em validação de requisições e manipulação de rotas CRUD. | TypeScript · Node.js · Express | [📦 GitHub](https://github.com/danilo-guimaraes/api-de-ticket) |
+| **Sorteador de Números** | Aplicativo interativo de sorteio que permite definir um intervalo personalizado, com lógica de controle de repetição, prevenção de duplicadas e botões dinâmicos. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver Projeto](https://danilo-guimaraes.github.io/sorteador-de-numeros/) |
+| **Refund App** | Sistema de solicitação de reembolso de despesas com validação de formulários, tratamento de entrada numérica, máscara de dados em tempo real e cálculo automático de totais. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver Projeto](https://danilo-guimaraes.github.io/refund-template-rocktseat/) |
+| **Shopping List** | Lista de compras interativa criada do zero, com manipulação de DOM para capturar dados e renderização dinâmica de elementos (`createElement`/`appendChild`). | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver Projeto](https://danilo-guimaraes.github.io/compras-da-semana-rockectseat/) |
+| **Animais Fantásticos** | Projeto avançado de interface estruturado inteiramente com JavaScript Orientado a Objetos (Classes), MutationObserver, integração de API Fetch e debounce. | HTML5 · Tailwind v4 · JS (Classes/ES6) | [▶ Ver Projeto](https://danilo-guimaraes.github.io/animais-fantasticos/) |
+| **Convert App** | Conversor de moedas (USD/EUR/GBP) com tratamento de erros, máscara de dados via Regex e botões de sugestão rápida usando Delegação de Eventos. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver Projeto](https://danilo-guimaraes.github.io/convert-template/) |
+| **Multi-step Form** | Formulário dinâmico em etapas com controle de fluxo, alternância inteligente de cobrança (Mensal/Anual) e prevenção de propagação de eventos. | HTML5 · Tailwind v4 · JavaScript | [▶ Ver Projeto](https://danilo-guimaraes.github.io/multi-step-form/) |
+| **Theme Calculator** | Calculadora funcional com suporte a 3 temas visuais dinâmicos e tratamento de operações matemáticas complexas. | HTML5 · Tailwind v4 · JavaScript | [▶ Ver Projeto](https://danilo-guimaraes.github.io/calculator-app-main/) |
+| **Interactive Rating Component** | Componente de avaliação interativo com captura de estado de cliques e tela de agradecimento dinâmica. | HTML5 · Tailwind v4 · JavaScript | [▶ Ver Projeto](https://danilo-guimaraes.github.io/interactive-rating-component/) |
+| **Bento Grid Dashboard** | Recriação moderna de layout em Bento Grid, otimizando o posicionamento de elementos e a responsividade com CSS avançado. | HTML5 · CSS Grid | [▶ Ver Projeto](https://danilo-guimaraes.github.io/bento-grid-main/) |
 
 ---
 
-### 📊 Roadmap Progress
+### 📊 Progresso do Roadmap
 
-| Milestone | Status |
+| Marco | Status |
 |---|---|
-| HTML5 + CSS3 (Flexbox, Grid, responsive) | ✅ Solid |
-| Python Mundos 1-4 | ✅ Certified |
-| MySQL M00 (40h) | ✅ Certified |
-| Tailwind CSS v4 | ✅ Solid |
-| JavaScript ES6+ (DOM, UX & POO) | ✅ Solid |
-| TypeScript + Node.js + Express | ⏳ In progress |
-| React.js | 🔜 Next |
-| Fullstack Project (React + Node + MySQL) | 🔜 Planned |
-| AI Engineer 🍁 | 🎯 Long-term |
+| HTML5 + CSS3 (Flexbox, Grid, responsivo) | ✅ Concluído |
+| Python Mundos 1-4 | ✅ Certificado |
+| MySQL M00 (40h) | ✅ Certificado |
+| Tailwind CSS v4 | ✅ Concluído |
+| JavaScript ES6+ (DOM, UX & POO) | ✅ Concluído |
+| TypeScript + Node.js + Express | ⏳ Em Andamento |
+| React.js | 🔜 Próximo |
+| Projeto Fullstack (React + Node + MySQL) | 🔜 Planejado |
+| Engenharia de IA 🍁 | 🎯 Longo Prazo |
 
 ---
 
-### 📫 Let's connect
+### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloguimaraes-it/)
