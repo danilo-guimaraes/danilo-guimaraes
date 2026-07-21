@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Danilo 👋</h1>
-<h3 align="center">Fullstack Developer in Training | HTML · CSS · Tailwind · JavaScript (learning) | Rio de Janeiro → Canada 🍁</h3>
+<h3 align="center">Fullstack Developer | TypeScript · Node.js · HTML · CSS · Tailwind · JavaScript | Rio de Janeiro → Canada 🍁</h3>
 
 ---
 
 ### 🧠 About me
-Trainee Programmer building real frontend projects from scratch — no copy-paste, no shortcuts. I study daily, push to GitHub consistently, and learn by doing rather than just watching tutorials. Currently mastering JavaScript (ES6+ POO) and Tailwind CSS v4, with React and Node.js next on the roadmap.
+Programmer building real frontend and backend projects from scratch — no copy-paste, no shortcuts. I study daily, push to GitHub consistently, and learn by doing rather than just watching tutorials. Currently mastering TypeScript, Node.js, and API architecture alongside JavaScript (ES6+ POO) and Tailwind CSS v4.
 
 ---
 
 ### 🚀 Currently learning
-- 🚀 **JavaScript Core & UX** — DOM manipulation, Event Delegation, Forms, API consumption and Event Listeners (Rocketseat)
+- 🟨 **TypeScript & Node.js** — Express, Schema Validation (Zod), and REST API architecture (Rocketseat)
 - 🎨 **Tailwind CSS v4** — Components, Dynamic Gradients & Logical Properties (Origamid)
 - 🟨 **JavaScript (ES6+)** — Object-Oriented Programming (Classes), Fetch API, Event Bubbling & Observers (Origamid)
 - 🐍 **Python** — Mundos 1-4 certified (Estudonauta)
@@ -17,13 +17,14 @@ Trainee Programmer building real frontend projects from scratch — no copy-past
 
 ### ⏳ Next steps
 - React.js — Origamid
-- Node.js + Express — Backend
 - Fullstack project (React + Node + MySQL)
 - AI Engineer 🎯 — long-term goal
 
 ---
 
 ### 🛠️ Tech stack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -42,6 +43,8 @@ Trainee Programmer building real frontend projects from scratch — no copy-past
 
 | Project | Description | Stack | Live |
 | :--- | :--- | :--- | :--- |
+| **API REST** | Robust REST API built from scratch using Node.js and TypeScript, featuring route architecture, custom controllers, error handling, and robust typing. | TypeScript · Node.js · Express | [📦 GitHub](https://github.com/danilo-guimaraes/api-rest) |
+| **API de Ticket** | Backend ticketing service API structured with TypeScript and Express, focused on request validation and handling CRUD endpoints. | TypeScript · Node.js · Express | [📦 GitHub](https://github.com/danilo-guimaraes/api-de-ticket) |
 | **Sorteador de Números** | Interactive number randomizer app allowing users to draw numbers within a custom range. Features repetition control logic, duplicate prevention, and dynamic button state toggles. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/sorteador-de-numeros/) |
 | **Refund App** | Expense refund request system featuring form validation, numeric value input handling, real-time data masking, and automatic expense total calculation. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/refund-template-rocktseat/) |
 | **Shopping List** | Interactive shopping list built from scratch. Features DOM manipulation to capture input data and dynamic rendering of HTML elements (`createElement`/`appendChild`) with checkboxes and an item removal system (`remove`). | HTML5 · CSS3 · JavaScript (ES6) | [▶ Live](https://danilo-guimaraes.github.io/compras-da-semana-rockectseat/) |
@@ -62,9 +65,9 @@ Trainee Programmer building real frontend projects from scratch — no copy-past
 | Python Mundos 1-4 | ✅ Certified |
 | MySQL M00 (40h) | ✅ Certified |
 | Tailwind CSS v4 | ✅ Solid |
-| JavaScript ES6+ (DOM, UX & POO) | ⏳ In progress |
+| JavaScript ES6+ (DOM, UX & POO) | ✅ Solid |
+| TypeScript + Node.js + Express | ⏳ In progress |
 | React.js | 🔜 Next |
-| Node.js + Express | 🔜 Planned |
 | Fullstack Project (React + Node + MySQL) | 🔜 Planned |
 | AI Engineer 🍁 | 🎯 Long-term |
 
