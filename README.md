@@ -4,18 +4,19 @@
 ---
 
 ### Sobre mim
-Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backend) do zero — sem copiar e colar, sem atalhos. Estudo diariamente, faço commits consistentes no GitHub e aprendo colocando a mão na massa, em vez de apenas assistir a tutoriais. Atualmente focado em TypeScript, Node.js e arquitetura de APIs, além de JavaScript (ES6+ POO) e Tailwind CSS v4.
+Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backend) do zero — sem copiar e colar, sem atalhos. Estudo diariamente, faço commits consistentes no GitHub e aprendo colocando a mão na massa, em vez de apenas assistir a tutoriais. Atualmente focado em TypeScript, Node.js, ORM e arquitetura de APIs, além de JavaScript (ES6+ POO) e Tailwind CSS v4.
 
 ---
 
 ### O que estou estudando agora
-- **TypeScript & Node.js** — Express, Validação de Schema (Zod) e arquitetura de API REST (Rocketseat)
+- **TypeScript & Node.js** — Express, ORM (Prisma), Validação de Schema (Zod) e arquitetura de API REST (Rocketseat)
 - **Tailwind CSS v4** — Componentes, Gradientes Dinâmicos & Propriedades Lógicas (Origamid)
 - **JavaScript (ES6+)** — Programação Orientada a Objetos (Classes), Fetch API, Event Bubbling & Observers (Origamid)
 - **Python** — Certificado nos Mundos 1 a 4 (Estudonauta)
 - **MySQL** — Módulo 00 certificado (40h)
 
 ### Próximos passos
+- Autenticações e Autorizações (JWT, Hash de Senhas, Middlewares de Segurança)
 - React.js — Origamid
 - Projeto Fullstack (React + Node + MySQL)
 - Engenharia de IA — objetivo de longo prazo
@@ -25,6 +26,7 @@ Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backen
 ### 🛠️ Tecnologias
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -66,8 +68,9 @@ Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backen
 | MySQL M00 (40h) | ✅ Certificado |
 | Tailwind CSS v4 | ✅ Concluído |
 | JavaScript ES6+ (DOM, UX & POO) | ✅ Concluído |
-| TypeScript + Node.js + Express | ⏳ Em Andamento |
-| React.js | 🔜 Próximo |
+| TypeScript + Node.js + Express + ORM (Prisma) | ⏳ Em Andamento |
+| Autenticações e Autorizações | 🔜 Próximo |
+| React.js | 🔜 Planejado |
 | Projeto Fullstack (React + Node + MySQL) | 🔜 Planejado |
 | Engenharia de IA 🍁 | 🎯 Longo Prazo |
 
