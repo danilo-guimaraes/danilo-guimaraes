@@ -1,15 +1,16 @@
 <h1 align="center">Olá, eu sou o Danilo 👋</h1>
-<h3 align="center">Fullstack Developer | TypeScript · Node.js · HTML · CSS · Tailwind · JavaScript | 🍁</h3>
+<h3 align="center">Fullstack Developer | TypeScript · Node.js · PostgreSQL · HTML · CSS · Tailwind · JavaScript | 🍁</h3>
 
 ---
 
 ### Sobre mim
-Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backend) do zero — sem copiar e colar, sem atalhos. Estudo diariamente, faço commits consistentes no GitHub e aprendo colocando a mão na massa, em vez de apenas assistir a tutoriais. Atualmente focado em TypeScript, Node.js, ORM e arquitetura de APIs, além de JavaScript (ES6+ POO) e Tailwind CSS v4.
+Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backend) do zero — sem copiar e colar, sem atalhos. Estudo diariamente, faço commits consistentes no GitHub e aprendo colocando a mão na massa, em vez de apenas assistir a tutoriais. Atualmente focado em TypeScript, Node.js, ORM, arquitetura de APIs e deploy em produção, além de JavaScript (ES6+ POO) e Tailwind CSS v4.
 
 ---
 
 ### O que estou estudando agora
 - **TypeScript & Node.js** — Express, ORM (Prisma), Validação de Schema (Zod) e arquitetura de API REST (Rocketseat)
+- **Deploy & Produção** — Deploy de APIs Node.js no Render, gerenciamento de variáveis de ambiente e migrations do Prisma/PostgreSQL em ambiente produtivo
 - **Tailwind CSS v4** — Componentes, Gradientes Dinâmicos & Propriedades Lógicas (Origamid)
 - **JavaScript (ES6+)** — Programação Orientada a Objetos (Classes), Fetch API, Event Bubbling & Observers (Origamid)
 - **Python** — Certificado nos Mundos 1 a 4 (Estudonauta)
@@ -23,10 +24,22 @@ Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backen
 
 ---
 
+### 🚀 Experiência recente: colocando projetos no ar
+Não é só escrever código — é entender por que ele quebra em produção. No deploy da **Rocketlog API** (Node.js + TypeScript + Prisma) no Render, precisei:
+- Diagnosticar e corrigir um erro de configuração do datasource do Prisma (`DATABASE_URL` ausente no schema)
+- Investigar uma falha de migration em produção (`P3018`) causada por inconsistência entre um enum do PostgreSQL e o valor default da coluna
+- Corrigir a migration SQL, versionar a correção via Git e planejar a reaplicação segura no banco do Render
+
+Esse tipo de troubleshooting end-to-end — do log de erro até a causa raiz no banco — é o que mais tenho buscado praticar ultimamente.
+
+---
+
 ### 🛠️ Tecnologias
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -45,6 +58,7 @@ Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backen
 
 | Projeto | Descrição | Stack | Acesso |
 | :--- | :--- | :--- | :--- |
+| **Rocketlog API** | API REST de rastreamento de encomendas com autenticação por perfil, ORM Prisma e banco PostgreSQL, com deploy em produção no Render. | TypeScript · Node.js · Prisma · PostgreSQL · Render | [📦 GitHub](https://github.com/danilo-guimaraes/rocketlog-delvery-API) |
 | **API REST** | API REST robusta construída do zero com Node.js e TypeScript, contendo arquitetura de rotas, controllers customizados, tratamento de erros e tipagem rigorosa. | TypeScript · Node.js · Express | [📦 GitHub](https://github.com/danilo-guimaraes/api-rest) |
 | **API de Ticket** | API de serviço de tickets para backend estruturada com TypeScript e Express, focada em validação de requisições e manipulação de rotas CRUD. | TypeScript · Node.js · Express | [📦 GitHub](https://github.com/danilo-guimaraes/api-de-ticket) |
 | **Sorteador de Números** | Aplicativo interativo de sorteio que permite definir um intervalo personalizado, com lógica de controle de repetição, prevenção de duplicadas e botões dinâmicos. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver Projeto](https://danilo-guimaraes.github.io/sorteador-de-numeros/) |
@@ -68,9 +82,10 @@ Desenvolvedor construindo aplicações reais de ponta a ponta (frontend e backen
 | MySQL M00 (40h) | ✅ Certificado |
 | Tailwind CSS v4 | ✅ Concluído |
 | JavaScript ES6+ (DOM, UX & POO) | ✅ Concluído |
-| TypeScript + Node.js + Express + ORM (Prisma) | ⏳ Em Andamento |
-| Autenticações e Autorizações | 🔜 Próximo |
-| React.js | 🔜 Planejado |
+| TypeScript + Node.js + Express + ORM (Prisma) | ✅ Concluído |
+| Deploy em produção (Render + PostgreSQL) | ✅ Concluído |
+| Autenticações e Autorizações | ✅ Concluído |
+| React.js | ⏳ Em Andamento |
 | Projeto Fullstack (React + Node + MySQL) | 🔜 Planejado |
 | Engenharia de IA 🍁 | 🎯 Longo Prazo |
 
