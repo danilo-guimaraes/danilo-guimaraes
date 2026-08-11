@@ -18,7 +18,7 @@ Desenvolvedor construindo aplicações reais de ponta a ponta — frontend, back
 
 | Em prática agora | Próximos passos |
 |---|---|
-| **React.js** — componentização, hooks (`useState`, `useEffect`), tipagem de props (Origamid) | Projeto Fullstack (React + Node + MySQL) |
+| **React.js** — componentização, hooks (`useState`, `useEffect`), tipagem de props, formulários controlados e validação de schema com React Hook Form + Yup (Origamid/Rocketseat) | Projeto Fullstack (React + Node + MySQL) |
 | **TypeScript & Node.js** — Express, ORM (Prisma), validação de schema (Zod), arquitetura REST (Rocketseat) | Autenticação e autorização (JWT, hash de senhas, middlewares de segurança) |
 | **Deploy & CI/CD** — GitHub Actions, deploy de APIs Node.js no Render, Prisma/PostgreSQL em produção | DevOps — objetivo de longo prazo |
 
@@ -49,6 +49,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
@@ -70,6 +71,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 | :--- | :--- | :--- | :--- |
 | **Rocketlog API** | API REST de rastreamento de encomendas com autenticação por perfil, ORM Prisma e banco PostgreSQL, com deploy em produção no Render. | TypeScript · Node.js · Prisma · PostgreSQL · Render | [📦 GitHub](https://github.com/danilo-guimaraes/rocketlog-delvery-API) |
 | **Adivinhe** | Jogo de adivinhação de palavras (estilo forca) em React, com estado de partida via hooks, tipagem em TypeScript, CSS Modules responsivo e deploy automatizado via GitHub Actions. | React · TypeScript · Vite · CSS Modules | [📦 GitHub](https://github.com/danilo-guimaraes/adivinhe-react) · [▶ Jogar](https://danilo-guimaraes.github.io/adivinhe-react/) |
+| **Formulário com Validação** | Formulário de cadastro de evento com validação de schema via Yup e formulários controlados com React Hook Form (`Controller`/`useForm`), totalmente tipado em TypeScript. | React · TypeScript · React Hook Form · Yup · Vite | [📦 GitHub](https://github.com/danilo-guimaraes/fullstack-react-template-forms) · [▶ Ver projeto](https://danilo-guimaraes.github.io/fullstack-react-template-forms/) |
 | **API REST** | API REST robusta construída do zero com Node.js e TypeScript, contendo arquitetura de rotas, controllers customizados, tratamento de erros e tipagem rigorosa. | TypeScript · Node.js · Express | [📦 GitHub](https://github.com/danilo-guimaraes/api-rest) |
 | **API de Ticket** | API de serviço de tickets para backend estruturada com TypeScript e Express, focada em validação de requisições e manipulação de rotas CRUD. | TypeScript · Node.js · Express | [📦 GitHub](https://github.com/danilo-guimaraes/api-de-ticket) |
 
@@ -106,7 +108,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 | Autenticação e autorização (JWT) | ✅ Concluído |
 | Deploy em produção (Render + PostgreSQL) | ✅ Concluído |
 | CI/CD com GitHub Actions | ✅ Concluído |
-| React.js | ⏳ Em andamento — 1º projeto no ar |
+| React.js | ⏳ Em andamento — 2 projetos no ar (hooks + formulários/validação) |
 | Projeto fullstack (React + Node + MySQL) | 🔜 Planejado |
 | DevOps | 🎯 Objetivo de longo prazo |
 
