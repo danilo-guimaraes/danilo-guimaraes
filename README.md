@@ -20,7 +20,7 @@ Desenvolvedor construindo aplicações reais de ponta a ponta — frontend, back
 |---|---|
 | **React.js** — componentização, hooks (`useState`, `useEffect`), tipagem de props (Origamid) | Projeto Fullstack (React + Node + MySQL) |
 | **TypeScript & Node.js** — Express, ORM (Prisma), validação de schema (Zod), arquitetura REST (Rocketseat) | Autenticação e autorização (JWT, hash de senhas, middlewares de segurança) |
-| **Deploy & CI/CD** — GitHub Actions, deploy de APIs Node.js no Render, Prisma/PostgreSQL em produção | Engenharia de IA — objetivo de longo prazo |
+| **Deploy & CI/CD** — GitHub Actions, deploy de APIs Node.js no Render, Prisma/PostgreSQL em produção | DevOps — objetivo de longo prazo |
 
 ---
 
@@ -108,7 +108,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 | CI/CD com GitHub Actions | ✅ Concluído |
 | React.js | ⏳ Em andamento — 1º projeto no ar |
 | Projeto fullstack (React + Node + MySQL) | 🔜 Planejado |
-| Engenharia de IA | 🎯 Objetivo de longo prazo |
+| DevOps | 🎯 Objetivo de longo prazo |
 
 ---
 
