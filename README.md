@@ -18,7 +18,7 @@ Desenvolvedor construindo aplicações reais de ponta a ponta — frontend, back
 
 | Em prática agora | Próximos passos |
 |---|---|
-| **React.js** — componentização, hooks (`useState`, `useEffect`), tipagem de props, formulários controlados e validação de schema com React Hook Form + Yup (Origamid/Rocketseat) | Projeto Fullstack (React + Node + MySQL) |
+| **React.js** — componentização, hooks (`useState`, `useEffect`), tipagem de props, roteamento com React Router (rotas aninhadas, layouts com `Outlet`, rotas por perfil de usuário), formulários controlados e validação de schema com React Hook Form + Yup (Origamid/Rocketseat) | Projeto Fullstack (React + Node + MySQL) |
 | **TypeScript & Node.js** — Express, ORM (Prisma), validação de schema (Zod), arquitetura REST (Rocketseat) | Autenticação e autorização (JWT, hash de senhas, middlewares de segurança) |
 | **Deploy & CI/CD** — GitHub Actions, deploy de APIs Node.js no Render, Prisma/PostgreSQL em produção | DevOps — objetivo de longo prazo |
 
@@ -54,6 +54,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
@@ -69,6 +70,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 
 | Projeto | Descrição | Stack | Acesso |
 | :--- | :--- | :--- | :--- |
+| **Refund.web** | Sistema de solicitação de reembolso corporativo com rotas separadas por perfil de usuário (funcionário/gestor), layouts compartilhados via `Outlet`, componentes de UI reutilizáveis (variantes tipadas, merge seguro de classes) e pipeline de deploy automatizado com GitHub Actions. | React · TypeScript · Vite · Tailwind CSS v4 · React Router | [📦 GitHub](https://github.com/danilo-guimaraes/refund-web) · [▶ Ver projeto](https://danilo-guimaraes.github.io/refund-web/) |
 | **Rocketlog API** | API REST de rastreamento de encomendas com autenticação por perfil, ORM Prisma e banco PostgreSQL, com deploy em produção no Render. | TypeScript · Node.js · Prisma · PostgreSQL · Render | [📦 GitHub](https://github.com/danilo-guimaraes/rocketlog-delvery-API) |
 | **Adivinhe** | Jogo de adivinhação de palavras (estilo forca) em React, com estado de partida via hooks, tipagem em TypeScript, CSS Modules responsivo e deploy automatizado via GitHub Actions. | React · TypeScript · Vite · CSS Modules | [📦 GitHub](https://github.com/danilo-guimaraes/adivinhe-react) · [▶ Jogar](https://danilo-guimaraes.github.io/adivinhe-react/) |
 | **Formulário com Validação** | Formulário de cadastro de evento com validação de schema via Yup e formulários controlados com React Hook Form (`Controller`/`useForm`), totalmente tipado em TypeScript. | React · TypeScript · React Hook Form · Yup · Vite | [📦 GitHub](https://github.com/danilo-guimaraes/fullstack-react-template-forms) · [▶ Ver projeto](https://danilo-guimaraes.github.io/fullstack-react-template-forms/) |
@@ -83,7 +85,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 | :--- | :--- | :--- | :--- |
 | **Animais Fantásticos** | Interface estruturada inteiramente com JavaScript orientado a objetos (Classes), MutationObserver, integração com Fetch API e debounce. | HTML5 · Tailwind v4 · JS (Classes/ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/animais-fantasticos/) |
 | **Multi-step Form** | Formulário dinâmico em etapas, com controle de fluxo, alternância de cobrança (mensal/anual) e prevenção de propagação de eventos. | HTML5 · Tailwind v4 · JavaScript | [▶ Ver projeto](https://danilo-guimaraes.github.io/multi-step-form/) |
-| **Refund App** | Sistema de solicitação de reembolso com validação de formulários, máscara de dados em tempo real e cálculo automático de totais. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/refund-template-rocktseat/) |
+| **Refund App (versão JS puro)** | Primeira versão do sistema de reembolso, com validação de formulários, máscara de dados em tempo real e cálculo automático de totais. Depois reconstruída em React — veja **Refund.web** na tabela de projetos em destaque. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/refund-template-rocktseat/) |
 | **Convert App** | Conversor de moedas (USD/EUR/GBP) com tratamento de erros, máscara via Regex e sugestões rápidas por delegação de eventos. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/convert-template/) |
 | **Sorteador de Números** | Sorteio com intervalo personalizado, controle de repetição e prevenção de duplicadas. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/sorteador-de-numeros/) |
 | **Shopping List** | Lista de compras interativa com manipulação de DOM e renderização dinâmica (`createElement`/`appendChild`). | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/compras-da-semana-rockectseat/) |
@@ -108,7 +110,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 | Autenticação e autorização (JWT) | ✅ Concluído |
 | Deploy em produção (Render + PostgreSQL) | ✅ Concluído |
 | CI/CD com GitHub Actions | ✅ Concluído |
-| React.js | ⏳ Em andamento — 2 projetos no ar (hooks + formulários/validação) |
+| React.js | ⏳ Em andamento — 3 projetos no ar (hooks, roteamento, formulários/validação) |
 | Projeto fullstack (React + Node + MySQL) | 🔜 Planejado |
 | DevOps | 🎯 Objetivo de longo prazo |
 
