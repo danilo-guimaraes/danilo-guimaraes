@@ -18,8 +18,8 @@ Desenvolvedor construindo aplicações reais de ponta a ponta — frontend, back
 
 | Em prática agora | Próximos passos |
 |---|---|
-| **React.js** — componentização, hooks (`useState`, `useEffect`), tipagem de props, roteamento com React Router (rotas aninhadas, layouts com `Outlet`, rotas por perfil de usuário), formulários controlados e validação de schema com React Hook Form + Yup (Origamid/Rocketseat) | Projeto Fullstack (React + Node + MySQL) |
-| **TypeScript & Node.js** — Express, ORM (Prisma), validação de schema (Zod), arquitetura REST (Rocketseat) | Autenticação e autorização (JWT, hash de senhas, middlewares de segurança) |
+| **React.js** — componentização, hooks (`useState`, `useEffect`), tipagem de props, roteamento com React Router (rotas aninhadas, layouts com `Outlet`, rotas por perfil de usuário), formulários controlados e validação de schema com Zod | Publicar a API do RefundFlow em produção (Render + troca de SQLite por PostgreSQL) |
+| **TypeScript & Node.js** — Express, ORM (Prisma), validação de schema (Zod), autenticação JWT, arquitetura REST (Rocketseat) | Testes automatizados (API e front-end) |
 | **Deploy & CI/CD** — GitHub Actions, deploy de APIs Node.js no Render, Prisma/PostgreSQL em produção | DevOps — objetivo de longo prazo |
 
 ---
@@ -38,6 +38,11 @@ Não é só escrever código — é entender por que ele quebra em produção.
 - Configurei um workflow de GitHub Actions para buildar com Vite e publicar apenas o artefato de produção (`dist/`)
 - Corrigi um segundo bug de caminho de assets: caminhos absolutos gerados pelo Vite não respeitavam o subdiretório do projeto no Pages — resolvido com `base` relativo
 
+**Unificação do RefundFlow (API + front-end) em monorepo e deploy**
+- Migrei o front-end de dados mockados para consumo real da API (Axios + JWT), com a URL da API configurável por variável de ambiente (`VITE_API_URL`) para funcionar em dev e produção sem alterar código
+- Antecipei e corrigi o clássico problema de SPA no GitHub Pages: rotas do React Router devolviam 404 ao recarregar — resolvido gerando um `404.html` a partir do `index.html` no próprio workflow
+- Escrevi a documentação do projeto como par README + guia de deploy passo a passo, cross-linkados, para o repositório servir como referência reproduzível
+
 Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log até a causa raiz — é o que mais busco praticar.
 
 ---
@@ -48,6 +53,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
@@ -70,7 +76,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 
 | Projeto | Descrição | Stack | Acesso |
 | :--- | :--- | :--- | :--- |
-| **Refund.web** | Sistema de solicitação de reembolso corporativo com rotas separadas por perfil de usuário (funcionário/gestor), layouts compartilhados via `Outlet`, componentes de UI reutilizáveis (variantes tipadas, merge seguro de classes) e pipeline de deploy automatizado com GitHub Actions. | React · TypeScript · Vite · Tailwind CSS v4 · React Router | [📦 GitHub](https://github.com/danilo-guimaraes/refund-web) · [▶ Ver projeto](https://danilo-guimaraes.github.io/refund-web/) |
+| **💸 RefundFlow** | Sistema **fullstack** de reembolsos corporativos: API própria com autenticação JWT, upload de comprovante e regras por perfil (funcionário/gestor), consumida de verdade pelo front-end em React (sem mock). Monorepo com deploy automatizado do front-end no GitHub Pages via GitHub Actions, incluindo fallback de SPA e URL de API por variável de ambiente. | React · TypeScript · Node.js · Express · Prisma · Tailwind CSS v4 | [📦 GitHub](https://github.com/danilo-guimaraes/refundflow) · [▶ Ver projeto](https://danilo-guimaraes.github.io/refundflow/) |
 | **Rocketlog API** | API REST de rastreamento de encomendas com autenticação por perfil, ORM Prisma e banco PostgreSQL, com deploy em produção no Render. | TypeScript · Node.js · Prisma · PostgreSQL · Render | [📦 GitHub](https://github.com/danilo-guimaraes/rocketlog-delvery-API) |
 | **Adivinhe** | Jogo de adivinhação de palavras (estilo forca) em React, com estado de partida via hooks, tipagem em TypeScript, CSS Modules responsivo e deploy automatizado via GitHub Actions. | React · TypeScript · Vite · CSS Modules | [📦 GitHub](https://github.com/danilo-guimaraes/adivinhe-react) · [▶ Jogar](https://danilo-guimaraes.github.io/adivinhe-react/) |
 | **Formulário com Validação** | Formulário de cadastro de evento com validação de schema via Yup e formulários controlados com React Hook Form (`Controller`/`useForm`), totalmente tipado em TypeScript. | React · TypeScript · React Hook Form · Yup · Vite | [📦 GitHub](https://github.com/danilo-guimaraes/fullstack-react-template-forms) · [▶ Ver projeto](https://danilo-guimaraes.github.io/fullstack-react-template-forms/) |
@@ -85,7 +91,7 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 | :--- | :--- | :--- | :--- |
 | **Animais Fantásticos** | Interface estruturada inteiramente com JavaScript orientado a objetos (Classes), MutationObserver, integração com Fetch API e debounce. | HTML5 · Tailwind v4 · JS (Classes/ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/animais-fantasticos/) |
 | **Multi-step Form** | Formulário dinâmico em etapas, com controle de fluxo, alternância de cobrança (mensal/anual) e prevenção de propagação de eventos. | HTML5 · Tailwind v4 · JavaScript | [▶ Ver projeto](https://danilo-guimaraes.github.io/multi-step-form/) |
-| **Refund App (versão JS puro)** | Primeira versão do sistema de reembolso, com validação de formulários, máscara de dados em tempo real e cálculo automático de totais. Depois reconstruída em React — veja **Refund.web** na tabela de projetos em destaque. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/refund-template-rocktseat/) |
+| **Refund App (versão JS puro)** | Primeira versão do sistema de reembolso, com validação de formulários, máscara de dados em tempo real e cálculo automático de totais. Depois reconstruída como projeto fullstack em React + Node — veja **RefundFlow** na tabela de projetos em destaque. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/refund-template-rocktseat/) |
 | **Convert App** | Conversor de moedas (USD/EUR/GBP) com tratamento de erros, máscara via Regex e sugestões rápidas por delegação de eventos. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/convert-template/) |
 | **Sorteador de Números** | Sorteio com intervalo personalizado, controle de repetição e prevenção de duplicadas. | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/sorteador-de-numeros/) |
 | **Shopping List** | Lista de compras interativa com manipulação de DOM e renderização dinâmica (`createElement`/`appendChild`). | HTML5 · CSS3 · JavaScript (ES6) | [▶ Ver projeto](https://danilo-guimaraes.github.io/compras-da-semana-rockectseat/) |
@@ -110,8 +116,8 @@ Esse tipo de troubleshooting end-to-end — do sintoma no navegador ou no log at
 | Autenticação e autorização (JWT) | ✅ Concluído |
 | Deploy em produção (Render + PostgreSQL) | ✅ Concluído |
 | CI/CD com GitHub Actions | ✅ Concluído |
-| React.js | ⏳ Em andamento — 3 projetos no ar (hooks, roteamento, formulários/validação) |
-| Projeto fullstack (React + Node + MySQL) | 🔜 Planejado |
+| React.js | ⏳ Em andamento — 4 projetos no ar (hooks, roteamento, formulários/validação) |
+| Projeto fullstack (React + Node + Prisma) | ✅ Concluído — [RefundFlow](https://github.com/danilo-guimaraes/refundflow) |
 | DevOps | 🎯 Objetivo de longo prazo |
 
 ---
